@@ -4,6 +4,5 @@ target
 *.swp
 
 .settings
-.classpath
 .project
 bin

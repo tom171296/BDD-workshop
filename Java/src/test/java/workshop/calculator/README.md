@@ -12,7 +12,7 @@ Implement a calculator that supports the sum operation.
 
 ### With BDD approach (Cucumber)
  
- Click [here](/src/test/resources/workshop/Calculator.feature) to check the feature file.
+ Click [here](../../../resources/workshop/Calculator.feature) to check the feature file.
 
 ## Uses
 
